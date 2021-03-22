@@ -1,9 +1,9 @@
-const web3 = require('web3');
 const jwt = require('jsonwebtoken');
 const bcrypt = require('bcryptjs');
 
-const usersModel = require('../database/models/users');
-const connectWeb3 = require('../connectWeb3');
+const usersModel = require('../models/users');
+const networkConnection = require('../utils/networkConnection');
+
 
 exports.login = async (req, res) => {
     const name = req.body.inputEmail;

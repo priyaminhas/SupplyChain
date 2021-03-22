@@ -9,6 +9,7 @@ async function getGateWay(orgNumber, userName) {
         __dirname,
         '..',
         '..',
+	'..',
         'test-network',
         'organizations',
         'peerOrganizations',

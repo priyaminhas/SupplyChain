@@ -1,6 +1,10 @@
-const web3 = require('web3');
-const vaccineModel = require('../database/models/vaccine');
-const userModel = require('../database/models/users');
+const jwt = require('jsonwebtoken');
+const bcrypt = require('bcryptjs');
+
+const networkConnection = require('../utils/networkConnection');
+
+const vaccineModel = require('../models/vaccine');
+const userModel = require('../models/users');
 
 exports.all = async (req,res) => {
     // const user = await userModel.findOne({ address: req.cookies.address });
