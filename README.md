@@ -27,7 +27,11 @@ The architecture of UnPerish Hyperledger Fabric supply chain application is as b
 ![Alt Text](https://github.com/pratikit007/dAppI-Group_Project-COVID-19_Vaccine_Supply_Chain/blob/master/Documents/VC_Tracebility.png)
 
 ## State machine diagram
+
+There are several states associated while vaccines go through various hand-offs, hence, changing the states. Below diagram gives brief information how various states are associated with this supply chain.
+
  ![Alt Text](https://github.com/pratikit007/dAppI-Group_Project-COVID-19_Vaccine_Supply_Chain/blob/master/Documents/StateMachineDiagram.jpg)
+ 
 ## Transition 
 
 The transitions of the state machine are represented by these functions of the smart contract:
@@ -43,6 +47,8 @@ The transitions of the state machine are represented by these functions of the s
 | Distribution delivery | IN_TRANSIT_TO_HOSPITALS | Weight, temperature, relative humidity, mode of transport, current location |
 | Hospital storage | IN_STORAGE_HOSPITALS | Storage location, temperature, humidity, weight, operator ID, date & time  |
 | Vaccine administration | VACCINE_ADMINISTERED | Location, customer ID, price, weight, cashier, Dose number |
+
+
 
 Below diagram gives generic overview of the transactions with respect to participants and assets in the network. 
 
