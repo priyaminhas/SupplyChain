@@ -27,15 +27,21 @@ The huge demand for fresh goods has stimulated lots of research on the perishabl
 ## State data descriptions
 ## Role descriptions
 
-**Manufacturers/Importer** :syringe:: These are the pharmacological partners that are responsible for sourcing the vaccine. Sourcing of the vaccine can be manufacturing if the vaccines are made in-house, and importing if the vaccines are imported from another country. The key value added by the sourcing is the quality check of the vaccine, as well as declaration of suitable parameters that are conducive to the healthy transport of vaccines. IOT powered oracles could be cased in quality checked batches of vaccine, that monitor physical conditions such as temperature, physical orientation, humidity and lighting.
+**Manufacturers/Importer** :syringe:: 
 
-**Logistics** :truck:: Once the vaccines are boxed and cased by sources, they are handed off to the logistical partners, that are responsible for physical transit of the vaccine cases over land, ocean and air. These partners are specially equipped to adhere to the physical conditions specified for the transit, to ensure that vaccines aren’t poisoned.
+These are the pharmacological partners that are responsible for sourcing the vaccine. Sourcing of the vaccine can be manufacturing if the vaccines are made in-house, and importing if the vaccines are imported from another country. The key value added by the sourcing is the quality check of the vaccine, as well as declaration of suitable parameters that are conducive to the healthy transport of vaccines. IOT powered oracles could be cased in quality checked batches of vaccine, that monitor physical conditions such as temperature, physical orientation, humidity and lighting.
 
-**Distributors**  🏬: Health Canada stays in touch with local health authorities of it’s major cities and provinces. These local distributors are responsible for keeping an active account of populations living in a metropolis and manage the rollout of vaccines. For example, seniors and front-line workers being the most vulnerable, were vaccinated first as the number of available initial vaccines wasn’t more than the entire population itself. These distributors are also in touch with local hospitals and supply vaccine cases based on allocation.
+**Logistics** :truck:: 
+Once the vaccines are boxed and cased by sources, they are handed off to the logistical partners, that are responsible for physical transit of the vaccine cases over land, ocean and air. These partners are specially equipped to adhere to the physical conditions specified for the transit, to ensure that vaccines aren’t poisoned.
 
-**HealthCare Providers**  :hospital:: These are the ground zero medical hospitals and individuals medical practitioners and physicians like UHN that have a direct contact with the citizens. HealthCare providers are expected to maintain social distancing and chaos free application of vaccines to the citizens.
+**Distributors**  🏬: 
+Health Canada stays in touch with local health authorities of it’s major cities and provinces. These local distributors are responsible for keeping an active account of populations living in a metropolis and manage the rollout of vaccines. For example, seniors and front-line workers being the most vulnerable, were vaccinated first as the number of available initial vaccines wasn’t more than the entire population itself. These distributors are also in touch with local hospitals and supply vaccine cases based on allocation.
 
-**Individuals/Citizens** :family:: The end of the spectrum user of these vaccines are the citizens and individuals. In case of 2 dose vaccine, individuals are supposed to track their second date and get themselves dosed for optimum effectiveness. Health Canada also tracks which people were vaccinated with which dose of the Covid19 vaccine so that any new variant more powerful than the original vaccine can be revisited and revaccinated again.
+**HealthCare Providers**  :hospital:: 
+These are the ground zero medical hospitals and individuals medical practitioners and physicians like UHN that have a direct contact with the citizens. HealthCare providers are expected to maintain social distancing and chaos free application of vaccines to the citizens.
+
+**Individuals/Citizens** :family:: 
+The end of the spectrum user of these vaccines are the citizens and individuals. In case of 2 dose vaccine, individuals are supposed to track their second date and get themselves dosed for optimum effectiveness. Health Canada also tracks which people were vaccinated with which dose of the Covid19 vaccine so that any new variant more powerful than the original vaccine can be revisited and revaccinated again.
 
 ## Screenshot
 
