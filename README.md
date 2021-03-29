@@ -71,7 +71,7 @@ There are various states which complete the overall supply chain process in gene
 9.	**_Vaccine in storage at hospitals_**: Hospitals must store the vaccines properly until administration of dosage, _transition_: IN_STORAGE_HOSPITALS
 10. **_Vaccine administered_**: administration of vaccine to customers, _transition_: VACCINE_ADMINISTERED
 
-## Role 
+## Roles 
 
 UnPerish supply chain has number of sub-participants who are participating in the system, however, for brief understanding we have set main roles as below: 
 
