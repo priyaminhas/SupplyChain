@@ -6,7 +6,7 @@
 </p>
 
 
-This project is submission of  BCDV1012 - dApp I group assignment under the guidance of professors *Dave Mckay* & *Tarun Sharma* as a part of [Blockchain Development - Fintech](https://www.georgebrown.ca/programs/blockchain-development-program-t175) course at [George Brown College.  
+This project is submission of  BCDV1012 - dApp I group assignment under the guidance of professors **_Dave Mckay_** & **_Tarun Sharma_** as a part of [Blockchain Development - Fintech](https://www.georgebrown.ca/programs/blockchain-development-program-t175) course at [George Brown College.  
 ](https://www.georgebrown.ca/)
 
 In brief, it is a Blockchain solution for COVID-19-Vaccine-Supply-Chain, using Hyperledger Fabric, Node.js and ReactJS. For Governance document, please refer to [Documents](https://github.com/pratikit007/dAppI-Group_Project-COVID-19_Vaccine_Supply_Chain/tree/master/Documents) folder.
