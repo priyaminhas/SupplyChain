@@ -6,7 +6,7 @@ In brief, it is a Blockchain solution for COVID-19-Vaccine-Supply-Chain, using H
 
 **Team UnPerish**
 
-   [Pratik Patel](https://github.com/pratikit007) | [Priya Minhas](https://github.com/priyaminhas) | [Natasha Rupani](url) | [Shivam Rattan](https://github.com/shivamrulz) | [Vaibhav Madaan](url)
+   [Pratik Patel](https://github.com/pratikit007) | [Priya Minhas](https://github.com/priyaminhas) | [Natasha Rupani](https://github.com/natasha-rupani) | [Shivam Rattan](https://github.com/shivamrulz) | [Vaibhav Madaan](url)
 
 ## Project description
 
