@@ -98,7 +98,7 @@ UnPerish supply chain has number of sub-participants who are participating in th
 
  ![Alt Text](https://github.com/pratikit007/dAppI-Group_Project-COVID-19_Vaccine_Supply_Chain/blob/master/Images/login.png)
  
-** Vaccine status page: **
+**Vaccine status page:**
  
  ![Alt Text](https://github.com/pratikit007/dAppI-Group_Project-COVID-19_Vaccine_Supply_Chain/blob/master/Images/vaccines.png)
 
