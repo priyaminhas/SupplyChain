@@ -21,7 +21,7 @@ Supply Chain use case for Hyperledger Fabric for building a dApp:  UnPerish- COV
 
 ## Requirements
 
-The huge demand for fresh goods has stimulated lots of research on the perishable food supply chain. There is an unprecedented perishable product in the markets today and that's the Covid 19 Vaccine. In the current pandemic time of COVID-19, many pharma companies have made vaccines with lots of research and development, but it has come with some complex logistics challenge. Since it is naïve vaccine, tracing of every single dose or batch becomes essential as a part of supply chain in order to analyze any future patterns. This project mainly focuses on below two aspects.
+The huge demand for fresh goods has stimulated lots of research on the perishable food supply chain. There is an unprecedented perishable product in the markets today and that's the Covid 19 Vaccine. In the current pandemic time of COVID-19, many pharma companies have made vaccines with lots of research and development, but it has come with some complex logistics challenge. Since these are novel vaccines, tracing of these vaccines is very essential in order to analyse any emerging patterns. For robustness and convenience the vaccines are tracked in batches. This project mainly focuses on below two aspects.
 
 
 -	Track and trace batch of vaccine from manufacturer to end user
