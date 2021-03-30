@@ -1,4 +1,9 @@
 #                                                     Hyperledger Fabric - COVID-19 Vaccine Supply Chain Solution
+
+   
+<p align="center">
+  <img width="360" height="200" src="https://github.com/pratikit007/dAppI-Group_Project-COVID-19_Vaccine_Supply_Chain/blob/master/Documents/Unperish_logo.PNG">
+</p>
 This project is submission of  BCDV1012 - dApp I group assignment under the guidance of professors *Dave Mckay* & *Tarun Sharma* as a part of [Blockchain Development - Fintech](https://www.georgebrown.ca/programs/blockchain-development-program-t175) course at [George Brown College.  
 ](https://www.georgebrown.ca/)
 
