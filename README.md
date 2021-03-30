@@ -2,7 +2,7 @@
 
    
 <p align="center">
-  <img width="360" height="200" src="https://github.com/pratikit007/dAppI-Group_Project-COVID-19_Vaccine_Supply_Chain/blob/master/Documents/Unperish_logo.PNG">
+  <img width="360" height="200" src="https://github.com/pratikit007/dAppI-Group_Project-COVID-19_Vaccine_Supply_Chain/blob/master/Images/Unperish_logo.PNG">
 </p>
 
 
@@ -31,13 +31,13 @@ The huge demand for fresh goods has stimulated lots of research on the perishabl
 
 The architecture of UnPerish Hyperledger Fabric supply chain application is as below:
 
-![Alt Text](https://github.com/pratikit007/dAppI-Group_Project-COVID-19_Vaccine_Supply_Chain/blob/master/Documents/VC_Tracebility.png)
+![Alt Text](https://github.com/pratikit007/dAppI-Group_Project-COVID-19_Vaccine_Supply_Chain/blob/master/Images/VC_Tracebility.png)
 
 ## State machine diagram
 
 There are several states associated while vaccines go through various hand-offs, hence, changing the states. Below diagram gives brief information how various states are associated with this supply chain.
 
- ![Alt Text](https://github.com/pratikit007/dAppI-Group_Project-COVID-19_Vaccine_Supply_Chain/blob/master/Documents/StateMachineDiagram.jpg)
+ ![Alt Text](https://github.com/pratikit007/dAppI-Group_Project-COVID-19_Vaccine_Supply_Chain/blob/master/Images/StateMachineDiagram.jpg)
  
 ## Transition 
 
@@ -59,7 +59,7 @@ The transitions of the state machine are represented by these functions of the s
 
 Below diagram gives generic overview of the transactions with respect to participants and assets in the network. 
 
- ![Alt Text](https://github.com/pratikit007/dAppI-Group_Project-COVID-19_Vaccine_Supply_Chain/blob/master/Documents/Network_Components.png)
+ ![Alt Text](https://github.com/pratikit007/dAppI-Group_Project-COVID-19_Vaccine_Supply_Chain/blob/master/Images/Network_Components.png)
 
    
 ## State data 
@@ -93,4 +93,14 @@ UnPerish supply chain has number of sub-participants who are participating in th
 **Individuals/Citizens** :family:: The end of the spectrum user of these vaccines are the citizens and individuals. In case of 2 dose vaccine, individuals are supposed to track their second date and get themselves dosed for optimum effectiveness. Health Canada also tracks which people were vaccinated with which dose of the Covid19 vaccine so that any new variant more powerful than the original vaccine can be revisited and revaccinated again.
 
 ## Screenshot
+
+**Login:**
+
+ ![Alt Text](https://github.com/pratikit007/dAppI-Group_Project-COVID-19_Vaccine_Supply_Chain/blob/master/Images/login.png)
+ 
+** Vaccine status page: **
+ 
+ ![Alt Text](https://github.com/pratikit007/dAppI-Group_Project-COVID-19_Vaccine_Supply_Chain/blob/master/Images/vaccines.png)
+
+
 
